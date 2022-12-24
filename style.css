@@ -1,0 +1,48 @@
+*{
+    margin : 0;
+    padding : 0;
+}
+body{
+    text-align : center;
+    margin-top : 50px;
+    font-family : Verdana, Geneva, Tahoma, sans-serif;
+    background-repeat : no-repeat;
+    background-color : black;
+    color : rgb(27, 27, 27);
+    background-image : url("image\ \(2\).jpg");
+    background-size : cover;
+    background-repeat: no-repeat;
+}
+h1{
+    padding-top : 25px;
+    margin-bottom : 25px;
+}
+button{
+    margin-top : 50px;
+    background-color : aliceblue;
+    padding : 10px;
+    padding-left : 60px;
+    padding-right : 60px;
+    font-family : Arial, Helvetica, sans-serif;
+    text-size-adjust : initial;
+    font-size : 25px;
+    background-color: greenyellow;
+
+}
+button:hover{
+    background-color: rgb(255, 119, 119);
+}
+#save-btn{
+    padding-left : 80px;
+    padding-right : 80px;
+}
+#save-el{
+    padding-top : 25px;
+    color : rgb(20, 20, 20);
+}
+div{
+    background-color : rgba(250, 233, 251, 0.719);
+    margin-left : 350px;
+    margin-right : 350px;
+    height : 450px;
+}
